@@ -1,6 +1,7 @@
-## Functions that compute an inverse matrix of a given matrix  
-## if the inverse matrix has already been computed earlier
-## the functions allow for returning the cached result
+## Functions that compute an inverse matrix of a given input invertible matrix  
+## If the inverse matrix has already been computed at an earlier time
+## the functions allows for returning the cached result thus preventing
+## recalculation
 
 ## Function that creates an object that can set and get a cached matrix
 
